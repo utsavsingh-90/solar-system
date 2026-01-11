@@ -3,7 +3,7 @@
 A visually engaging, interactive solar system simulation built entirely with **pure HTML and CSS**. This project explores the power of CSS animations and custom properties to create a responsive, 3D-like experience without any JavaScript.
 
 ## 🚀 Live Demo
-[Check out the simulation here!]([https://utsavsingh-90.github.io/solar-system/](https://funny-tapioca-082698.netlify.app/)
+[Check out the simulation here!]([https://funny-tapioca-082698.netlify.app/])
 
 ## ✨ Features
 - **Realistic Orbits:** Each planet has a unique orbital speed and distance from the Sun.
